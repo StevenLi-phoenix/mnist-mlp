@@ -1,0 +1,9 @@
+.venv/
+viz/
+data/
+__pycache__/
+predictions.npz
+.*.bak.*
+*.aux
+*.log
+!train.log

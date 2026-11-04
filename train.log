@@ -1,0 +1,13 @@
+2026-11-04 14:24:38,409 INFO device=mps params=567434 train=55000 val=5000 test=10000
+2026-11-04 14:24:41,045 INFO epoch  1/10 train_loss=0.2692 val_loss=0.1476 val_acc=0.9542 * (2.6s)
+2026-11-04 14:24:43,158 INFO epoch  2/10 train_loss=0.1015 val_loss=0.1006 val_acc=0.9700 * (2.1s)
+2026-11-04 14:24:45,159 INFO epoch  3/10 train_loss=0.0650 val_loss=0.0895 val_acc=0.9730 * (2.0s)
+2026-11-04 14:24:47,154 INFO epoch  4/10 train_loss=0.0523 val_loss=0.0822 val_acc=0.9750 * (2.0s)
+2026-11-04 14:24:49,158 INFO epoch  5/10 train_loss=0.0394 val_loss=0.0929 val_acc=0.9722 (2.0s)
+2026-11-04 14:24:51,180 INFO epoch  6/10 train_loss=0.0362 val_loss=0.0869 val_acc=0.9738 (2.0s)
+2026-11-04 14:24:53,213 INFO epoch  7/10 train_loss=0.0272 val_loss=0.0940 val_acc=0.9762 * (2.0s)
+2026-11-04 14:24:55,262 INFO epoch  8/10 train_loss=0.0239 val_loss=0.1004 val_acc=0.9750 (2.0s)
+2026-11-04 14:24:57,306 INFO epoch  9/10 train_loss=0.0223 val_loss=0.0965 val_acc=0.9758 (2.0s)
+2026-11-04 14:24:59,445 INFO epoch 10/10 train_loss=0.0217 val_loss=0.1038 val_acc=0.9756 (2.1s)
+2026-11-04 14:24:59,705 INFO selected epoch 7 (val_acc=0.9762) -> test_loss=0.0763 test_acc=0.9795
+2026-11-04 14:25:00,106 INFO saved history.json, predictions.npz, split.npz, mnist_mlp.pt

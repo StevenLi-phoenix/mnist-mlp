@@ -1,0 +1,4 @@
+torch>=2.15
+torchvision>=0.29
+numpy>=2.5
+matplotlib>=3.11
